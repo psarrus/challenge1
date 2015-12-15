@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+        box-sizing: border-box;
+}
+
+.clear {
+  clear: both;
+}
+
+main {
+  width: 1020px;
+  margin: auto;
+  font-family:
+}
+
+header {
+  font-family: "Josefin Sans";
+  background-color: black;
+  height: 380px;
+  text-align: center;
+}
+
+nav {
+  padding: auto;
+}
+
+nav ul {
+  height: 60px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+nav li {
+  float: left;
+  list-style-type: none;
+  padding:20px;
+}
+
+nav li a {
+  text-decoration: none;
+  color: white;
+}
+
+
+.yellow {
+  color: #cfa205;
+}
+
+.titre1 {
+  font-size: 133px;
+  padding: 70px;
+}
+.titre2 {
+  font-size: 18px;
+}
