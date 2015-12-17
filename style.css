@@ -10,6 +10,10 @@
   clear: both;
 }
 
+body {
+  background-image: url(images/bgjpg);
+}
+
 main {
   width: 1020px;
   margin: auto;
@@ -55,4 +59,79 @@ nav li a {
 }
 .titre2 {
   font-size: 18px;
+}
+
+header .fa-circle {
+  font-size: 8px;
+}
+
+.menu-btn .fa-facebook {
+  font-size: 25px;
+}
+
+.menu-btn .fa-twitter {
+  font-size: 25px;
+}
+
+.menu-btn .fa-google-plus {
+  font-size: 25px;
+}
+
+.menu-btn .fa-pinterest {
+  font-size: 25px;
+}
+
+.menu-btn .fa-youtube-play {
+  font-size: 25px;
+}
+
+.menu-btn {
+  color: #7a7a7a;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #e8e8e8;
+  height: 60px;
+}
+
+.btn .fa-facebook cercle{
+  font-size: 8px;
+}
+
+
+.txt {
+  width: 900px;
+  height: 90px;
+  margin: 60px 60px;
+  text-align: center;
+  font-family: "Bitter";
+  font-size: 18px;
+  color: #7a7a7a;
+  border-bottom: solid 1px #e8e8e8;
+}
+
+.art {
+  margin: auto;
+}
+
+.global-art {
+  width: 260px;
+  margin-left: 60px;
+  float: left;
+}
+
+}
+.txt-art {
+  width: 265px;
+  font-size: 14px;
+  color: #7a7a7a;
+}
+
+.txt-art h1 {
+  padding-top: 20px;
+}
+
+.txt-art p {
+  width: 265px;
+  padding-top: 20px;
 }
